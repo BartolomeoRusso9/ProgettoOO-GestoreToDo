@@ -49,7 +49,7 @@ Sistema di sign-in e sign-up sicuro per gestire l'accesso ai propri dati.
 Apri il terminale e clona il progetto nella tua cartella di lavoro:
 
 ```bash
-git clone [https://github.com/BartolomeoRusso9/ProgettoOO-GestoreToDo.git](https://github.com/BartolomeoRusso9/ProgettoOO-GestoreToDo.git)
+git clone https://github.com/BartolomeoRusso9/ProgettoOO-GestoreToDo.git
 
 cd ProgettoOO-GestoreToDo
 ```
